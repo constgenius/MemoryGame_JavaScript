@@ -15,7 +15,7 @@ This is a classic Memory Game implemented in JavaScript. The game is designed to
 # Files and Directory Structure
 * index.html: The main HTML file containing the game board and user interface.
 * styles.css: A CSS file to style the appearance of the game.
-* script.js: The JavaScript file containing the game logic and functionality.
+* index.js: The JavaScript file containing the game logic and functionality.
 * images/: A directory containing images of the card symbols used in the game.
 
 # Technologies Used
